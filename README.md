@@ -34,7 +34,7 @@ world.educate(me);
 # Motto
 > 当夜幕降临，有的人还未睡去，他们憧憬着更美好的明天。  ——SFW
 
-[不夜城科学院设定标识](images/UAS.png)
+[不夜城科学院设定标识]([https://github.\avboonight-eziwiki\public\images\docs](https://github.com/Corinne1124/avboonight-eziwiki/blob/main/public/images/docs/UAS1.png?raw=true))
 
 # Contact
 - Email: [Corinne1124@126.com](Corinne1124@126.com "标题")
