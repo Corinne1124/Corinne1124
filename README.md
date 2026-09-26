@@ -32,7 +32,7 @@ world.educate(me);
 # Motto
 > 当夜幕降临，有的人还未睡去，他们憧憬着更美好的明天。  ——SFW
 
-<img src="https://raw.githubusercontent.com/Corinne1124/avboonight-eziwiki/refs/heads/main/public/images/docs/UAS1.png" alt="UAS" width="900" height="600"/>
+<img src="https://raw.githubusercontent.com/Corinne1124/avboonight-eziwiki/refs/heads/main/public/images/docs/UAS1.png" alt="UAS" width="450" height="6300"/>
 
 # Contact
 - Email: [Corinne1124@126.com](Corinne1124@126.com "标题")
