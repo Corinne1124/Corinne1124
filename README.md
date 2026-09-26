@@ -34,6 +34,8 @@ world.educate(me);
 # Motto
 > 当夜幕降临，有的人还未睡去，他们憧憬着更美好的明天。  ——SFW
 
+[不夜城科学院设定标识](images/UAS.png)
+
 # Contact
 - Email: [Corinne1124@126.com](Corinne1124@126.com "标题")
 - BiliBili: [@Corinne1124](https://space.bilibili.com/1240864447)
@@ -61,6 +63,6 @@ world.educate(me);
 - 业余无线电（不要想Call我，手台收不到w)
 - Minecraft
 
-~~~
-
-
+> [!想说的话]
+> 我其实也算“老资历”了，只不过因为中式家庭原因被迫注销了一次账户......
+> 目前没有考虑写项目的事，太忙了。只能做做维护和fork别人仓库改点需要的东西自己用。
